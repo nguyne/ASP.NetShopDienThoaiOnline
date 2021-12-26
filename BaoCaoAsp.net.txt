@@ -1,0 +1,9 @@
+Thành viên: Trần Văn Tới, Lương Nguyễn
+Đề tài: Wed bán điện thoại di động online
+1. Các công việc đã hoàn thành trong tuần
+  -Xây dựng được layout đăng nhập, đăng kí, đổi mật khẩu
+  -Xử lí được các chức năng của 3 form
+2. Các công việc cần hoàn thiện trong tuần tiếp theo
+  -Phần giao diện Admin đang xử lí thêm chức năng như xóa bỏ 
+    vào thùng rác có thể khôi phục, tìm kiếm.
+  - Ngoài ra còn layout người dùng vẫn đang hoàn thiện.
