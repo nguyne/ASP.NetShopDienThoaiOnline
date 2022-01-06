@@ -1,0 +1,14 @@
+Thành viên: Trần Văn Tới, Lương Nguyễn
+Các công việc nhóm đã làm trong tuần 4:
+1. Load sản phẩm lên trang chủ,
+	+Phân hãng điện thoại
+	+Tìm kiếm theo tên của điện thoại
+2. Xử lí giỏ hàng: 
+	+Thêm 1 sản phẩm vào giỏ hàng
+	+Sửa giỏ hàng
+	+Xóa 1 sản phẩm trong giỏ hàng
+	+Đặt hàng (thanh toán)
+	Xem hóa đơn+
+3. Thiết kế thêm giao diện ở trang liên hệ
+
+	
